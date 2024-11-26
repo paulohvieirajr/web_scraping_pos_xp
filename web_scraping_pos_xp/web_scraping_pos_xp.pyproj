@@ -1,0 +1,52 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>d2f9d9f1-7447-4af1-b614-9ef78afb2974</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>main.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>web_scraping_pos_xp</Name>
+    <RootNamespace>web_scraping_pos_xp</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="email_arquivos\email.py" />
+    <Compile Include="main.py" />
+    <Compile Include="movimento_falimentar\artigo.py" />
+    <Compile Include="movimento_falimentar\movimento_falimentar.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dados_capturados\movimento_falimentar.xlsx" />
+    <Content Include="LICENSE" />
+    <Content Include="movimento_falimentar\__pycache__\movimento_falimentar.cpython-311.pyc" />
+    <Content Include="README.md" />
+    <Content Include="requirements.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="dados_capturados\" />
+    <Folder Include="movimento_falimentar\" />
+    <Folder Include="movimento_falimentar\__pycache__\" />
+    <Folder Include="email_arquivos\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

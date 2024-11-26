@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\github\\web_scraping_pos_xp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F9D9F1-7447-4AF1-B614-9EF78AFB2974}|web_scraping_pos_xp\\web_scraping_pos_xp.pyproj|C:\\dev\\github\\web_scraping_pos_xp\\web_scraping_pos_xp\\movimento_falimentar\\movimento_falimentar.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D2F9D9F1-7447-4AF1-B614-9EF78AFB2974}|web_scraping_pos_xp\\web_scraping_pos_xp.pyproj|solutionrelative:web_scraping_pos_xp\\movimento_falimentar\\movimento_falimentar.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F9D9F1-7447-4AF1-B614-9EF78AFB2974}|web_scraping_pos_xp\\web_scraping_pos_xp.pyproj|C:\\dev\\github\\web_scraping_pos_xp\\web_scraping_pos_xp\\email_arquivos\\email.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D2F9D9F1-7447-4AF1-B614-9EF78AFB2974}|web_scraping_pos_xp\\web_scraping_pos_xp.pyproj|solutionrelative:web_scraping_pos_xp\\email_arquivos\\email.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F9D9F1-7447-4AF1-B614-9EF78AFB2974}|web_scraping_pos_xp\\web_scraping_pos_xp.pyproj|C:\\dev\\github\\web_scraping_pos_xp\\web_scraping_pos_xp\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D2F9D9F1-7447-4AF1-B614-9EF78AFB2974}|web_scraping_pos_xp\\web_scraping_pos_xp.pyproj|solutionrelative:web_scraping_pos_xp\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "email.py",
+              "DocumentMoniker": "C:\\dev\\github\\web_scraping_pos_xp\\web_scraping_pos_xp\\email_arquivos\\email.py",
+              "RelativeDocumentMoniker": "web_scraping_pos_xp\\email_arquivos\\email.py",
+              "ToolTip": "C:\\dev\\github\\web_scraping_pos_xp\\web_scraping_pos_xp\\email_arquivos\\email.py",
+              "RelativeToolTip": "web_scraping_pos_xp\\email_arquivos\\email.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-26T17:54:33.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\dev\\github\\web_scraping_pos_xp\\web_scraping_pos_xp\\main.py",
+              "RelativeDocumentMoniker": "web_scraping_pos_xp\\main.py",
+              "ToolTip": "C:\\dev\\github\\web_scraping_pos_xp\\web_scraping_pos_xp\\main.py",
+              "RelativeToolTip": "web_scraping_pos_xp\\main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-26T14:55:35.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "movimento_falimentar.py",
+              "DocumentMoniker": "C:\\dev\\github\\web_scraping_pos_xp\\web_scraping_pos_xp\\movimento_falimentar\\movimento_falimentar.py",
+              "RelativeDocumentMoniker": "web_scraping_pos_xp\\movimento_falimentar\\movimento_falimentar.py",
+              "ToolTip": "C:\\dev\\github\\web_scraping_pos_xp\\web_scraping_pos_xp\\movimento_falimentar\\movimento_falimentar.py",
+              "RelativeToolTip": "web_scraping_pos_xp\\movimento_falimentar\\movimento_falimentar.py",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-07T23:51:23.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
